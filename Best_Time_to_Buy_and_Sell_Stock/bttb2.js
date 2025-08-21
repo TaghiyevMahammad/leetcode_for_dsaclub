@@ -9,4 +9,4 @@ var maxProfit = function(prices) {
 
     return maxProfit;
 };
-// console.log(twoSum([2, 7, 11, 15], 9));
+// console.log(maxProfit([7,1,5,3,6,4]))
